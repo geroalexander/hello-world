@@ -1,7 +1,1 @@
-hello
-
-console.log("hello")
-
-what is going on!!!
-
-this is werid
+this is a test readme file to help me set up my github. cheers!
